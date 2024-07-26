@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chintu Rau</h1>
+<h1 align="center">Hi 👋, I'm Chintu Rai</h1>
 <h3 align="center">A Software Engineering Student at Cambridge</h3>
 
 - 🔭 I’m currently studying [DSA](https://codolio.com/profile/chinturai)
