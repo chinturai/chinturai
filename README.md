@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate for **Hackathons**
 
-- 📝 I regularly write articles on Leetcode [https://leetcode.com/u/Chintu_Rai/](https://leetcode.com/u/Chintu_Rai/)
+- 📝 I regularly write Solutions / articles on Leetcode [https://leetcode.com/u/Chintu_Rai/](https://leetcode.com/u/Chintu_Rai/)
 
 - 💬 Ask me about **DSA,CP,FrontEnd**
 
