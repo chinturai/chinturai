@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chintu Rai</h1>
 <h3 align="center">A Software Engineering Student at Cambridge</h3>
 
-- 🔭 I’m currently studying [DSA](https://codolio.com/profile/chinturai)
+- 🔭  [My Coding Profiles](https://codolio.com/profile/chinturai)
 
 - 👯 I’m looking to collaborate for **Hackathons**
 
-- 📝 I regularly write Solutions / articles on Leetcode [https://leetcode.com/u/Chintu_Rai/](https://leetcode.com/u/Chintu_Rai/)
-
-- 💬 Ask me about **DSA,CP,FrontEnd**
 
 - 📫 How to reach me **chintu.23ise@cambridge.edu.in**
 
