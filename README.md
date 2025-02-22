@@ -1,8 +1,3 @@
-# Hello 👋 I am Chintu Rai
-## A Software Engineering Student at Cambridge
-
-### I love building projects and solving Questions on Leetcode / GFG 
-
 # Believe in Hardwork ⚡⚡
 
 ## Click here to view [My Coding Profiles](https://codolio.com/profile/chinturai)
