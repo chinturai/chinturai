@@ -46,19 +46,6 @@ I am a **Smart India Hackathon (SIH) 2025 Finalist** and currently a **Machine L
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinturai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chintu's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinturai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinturai&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
 ### 🧩 Coding Profiles
 
 | Platform | Profile Link |
@@ -81,11 +68,6 @@ I am a **Smart India Hackathon (SIH) 2025 Finalist** and currently a **Machine L
 * 📜 **OOPs in Java** - University of Pennsylvania - [View Certificate](https://drive.google.com/file/d/1l-kf4PxnIGRyuOpZOh_va7T_pyhElC-Z/view?usp=sharing)
 
 ---
-
-<div align="center">
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/chinturai/count.svg" alt="Visitor Count" />
-</div>
 
 <div align="center">
   <br>
