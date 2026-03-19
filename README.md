@@ -25,7 +25,7 @@ I am a **Smart India Hackathon (SIH) 2025 Finalist** and currently a **Machine L
 
 - 🔭 I’m currently working on **Advanced Machine Learning Projects**
 - 🌱 I’m currently learning **Generative AI & System Design**
-- 🏆 **Achievements:** SIH 2025 National Level Finalist, 2nd Place at Samsung Gen AI Hackathon, 5th Place at DevHack (IIT Dharwad)
+- 🏆 **Achievements:** SIH 2025 National Level Finalist, 2nd Place at Samsung Gen AI Hackathon, Finalist and Participant at 8+ Hackathons
 - 💬 Ask me about **Full Stack, System Design, CS Fundamentals, Java, and Python**
 
 ---
